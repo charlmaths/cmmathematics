@@ -1,7 +1,9 @@
-# cmmathematics
+## cmmathematics
 
-Some sort of sandbox for a personal site - should really update it further but will be back on this. Currently hosted on github pages but we shall see!
+A sandbox for my personal site. It needs further development, rather, I'll keep developing it.
 
-I'm going to try and go for a 'termninal' style website. I like linux and want to implement commands to see context and basically treat the website like an actual terminal. I'm using claude code along side here and will try and keep track of the changes.
+This is currently hosted on GitHub Pages (subject to change).
 
-# Step 1: Basic terminal style
+The aim is for a terminal-style website. I like the aesthetics of CLIs and Linux environments, and I want to experiment with implementing commands so the site behaves more like an actual terminal.
+
+I’m using Claude Code/ChatGPT alongside this project and will try to keep track of any AI-assisted changes. This is also a way for me to learn so I'll keep track of that as well and test myself.
